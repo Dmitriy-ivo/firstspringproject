@@ -11,7 +11,7 @@ import lombok.ToString;
 @RequiredArgsConstructor
 public class User {
     private long id;
-    private String name;
+    private String username;
 
 
 
