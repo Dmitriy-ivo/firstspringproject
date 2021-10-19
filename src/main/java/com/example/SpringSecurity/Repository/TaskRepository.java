@@ -1,6 +1,6 @@
-package com.example.firstspringproject.Repository;
+package com.example.SpringSecurity.Repository;
 
-import com.example.firstspringproject.Entity.UserEntity;
+import com.example.SpringSecurity.Entity.UserEntity;
 import org.springframework.data.repository.CrudRepository;
 
 public interface TaskRepository extends CrudRepository<UserEntity,Long> {

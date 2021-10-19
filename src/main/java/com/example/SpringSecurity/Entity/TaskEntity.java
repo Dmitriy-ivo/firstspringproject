@@ -1,4 +1,4 @@
-package com.example.firstspringproject.Entity;
+package com.example.SpringSecurity.Entity;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

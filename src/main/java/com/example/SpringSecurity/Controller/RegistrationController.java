@@ -1,7 +1,7 @@
-package com.example.firstspringproject.Controller;
+package com.example.SpringSecurity.Controller;
 
-import com.example.firstspringproject.Entity.UserEntity;
-import com.example.firstspringproject.Service.UserService;
+import com.example.SpringSecurity.Entity.UserEntity;
+import com.example.SpringSecurity.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

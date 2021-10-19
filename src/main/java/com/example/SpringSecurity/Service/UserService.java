@@ -1,9 +1,9 @@
-package com.example.firstspringproject.Service;
+package com.example.SpringSecurity.Service;
 
-import com.example.firstspringproject.Entity.Role;
-import com.example.firstspringproject.Entity.UserEntity;
-import com.example.firstspringproject.Repository.RoleRepository;
-import com.example.firstspringproject.Repository.UserRepository;
+import com.example.SpringSecurity.Entity.Role;
+import com.example.SpringSecurity.Entity.UserEntity;
+import com.example.SpringSecurity.Repository.RoleRepository;
+import com.example.SpringSecurity.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

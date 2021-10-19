@@ -1,9 +1,7 @@
-package com.example.firstspringproject.Repository;
+package com.example.SpringSecurity.Repository;
 
-import com.example.firstspringproject.Entity.UserEntity;
+import com.example.SpringSecurity.Entity.UserEntity;
 import org.springframework.data.repository.CrudRepository;
-
-import java.util.List;
 
 public interface UserRepository extends CrudRepository<UserEntity, Long> {
     UserEntity findByUsername(String username);

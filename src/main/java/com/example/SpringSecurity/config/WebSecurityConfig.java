@@ -1,6 +1,6 @@
-package com.example.firstspringproject.config;
+package com.example.SpringSecurity.config;
 
-import com.example.firstspringproject.Service.UserService;
+import com.example.SpringSecurity.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
